@@ -48,4 +48,4 @@ If you use this code in your research please consider citing
 
 
 ## CyCADA pixel+feat SVHN2MNIST test
-
+* Download for svhn2mnist datasets and pretrained weights https://drive.google.com/drive/folders/1D4Gr-Q1CArPqUz0MFRL8nnEpndc6fLRW?usp=sharing
