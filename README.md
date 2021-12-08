@@ -46,3 +46,6 @@ If you use this code in your research please consider citing
    * Choose the desired `src` and `tgt` and `datadir`. Make sure to download the corresponding base model and data. 
    * The final DRN-26 CyCADA model from GTA to CityScapes can be downloaded [here](https://www.dropbox.com/s/dgt00nt6oymbt4k/drn26_cycada_cyclegta2cityscapes.pth?dl=0)
 
+
+## CyCADA pixel+feat SVHN2MNIST test
+
