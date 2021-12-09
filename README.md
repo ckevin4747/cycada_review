@@ -47,5 +47,5 @@ If you use this code in your research please consider citing
    * The final DRN-26 CyCADA model from GTA to CityScapes can be downloaded [here](https://www.dropbox.com/s/dgt00nt6oymbt4k/drn26_cycada_cyclegta2cityscapes.pth?dl=0)
 
 
-## CyCADA pixel+feat SVHN2MNIST test
+## CyCADA pixel+feat SVHN2MNIST test(ckevin4747)
 * Download for svhn2mnist datasets and pretrained weights https://drive.google.com/drive/folders/1D4Gr-Q1CArPqUz0MFRL8nnEpndc6fLRW?usp=sharing
